@@ -1,3 +1,4 @@
 # Abhinav-1st
 This is my first Git Repository.
-Author - Abhinav Bhardwaj
+Author - Abhinav Jha
+
